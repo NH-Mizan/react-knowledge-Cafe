@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to HTML5",
+      "authorName": "John Doe",
+      "authorImageAvatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "postDate": "2023-10-10",
+      "readingTime": 10 ,
+      "courseThumbnail": "https://i.ibb.co.com/8mRvWTV/2.png",
+      "hasTag": ["HTML", "Web Development", "Beginner"]
+    },
+    {
+      "id": 2,
+      "title": "Mastering CSS3: Advanced Techniques",
+      "authorName": "Jane Smith",
+      "authorImageAvatar": "https://randomuser.me/api/portraits/women/2.jpg",
+      "postDate": "2023-09-15",
+      "readingTime": 15 ,
+      "courseThumbnail": "https://i.ibb.co.com/WtqT4wr/1.jpg",
+      "hasTag": ["CSS", "Design", "Frontend"]
+    },
+    {
+      "id": 3,
+      "title": "JavaScript Fundamentals",
+      "authorName": "Michael Johnson",
+      "authorImageAvatar": "https://randomuser.me/api/portraits/men/3.jpg",
+      "postDate": "2023-08-05",
+      "readingTime": 12,
+      "courseThumbnail": "https://i.ibb.co.com/qjSqX5j/3.png",
+      "hasTag": ["JavaScript", "Programming", "Web Development"]
+    },
+    {
+      "id": 4,
+      "title": "React for Beginners",
+      "authorName": "Emily Davis",
+      "authorImageAvatar": "https://randomuser.me/api/portraits/women/4.jpg",
+      "postDate": "2023-07-22",
+      "readingTime": 18,
+      "courseThumbnail": "https://i.ibb.co.com/f8dw6Wy/4.jpg",
+      "hasTag": ["React", "JavaScript", "Frontend"]
+    },
+    {
+      "id": 5,
+      "title": "Understanding REST APIs",
+      "authorName": "Chris Brown",
+      "authorImageAvatar": "https://randomuser.me/api/portraits/men/5.jpg",
+      "postDate": "2023-06-10",
+      "readingTime": 8,
+      "courseThumbnail": "https://via.placeholder.com/150?text=REST+APIs",
+      "hasTag": ["APIs", "Backend", "Web Services"]
+    },
+    {
+      "id": 6,
+      "title": "Node.js: Building Server-side Applications",
+      "authorName": "Anna Williams",
+      "authorImageAvatar": "https://randomuser.me/api/portraits/women/6.jpg",
+      "postDate": "2023-05-18",
+      "readingTime": 20,
+      "courseThumbnail": "https://via.placeholder.com/150?text=Node.js+Apps",
+      "hasTag": ["Node.js", "Backend", "JavaScript"]
+    },
+    {
+      "id": 7,
+      "title": "Introduction to MongoDB",
+      "authorName": "David Wilson",
+      "authorImageAvatar": "https://randomuser.me/api/portraits/men/7.jpg",
+      "postDate": "2023-04-02",
+      "readingTime": 14,
+      "courseThumbnail": "https://via.placeholder.com/150?text=MongoDB+Intro",
+      "hasTag": ["MongoDB", "Database", "Backend"]
+    },
+    {
+      "id": 8,
+      "title": "Building Responsive Websites with Bootstrap",
+      "authorName": "Sarah Johnson",
+      "authorImageAvatar": "https://randomuser.me/api/portraits/women/8.jpg",
+      "postDate": "2023-03-11",
+      "readingTime": 9,
+      "courseThumbnail": "https://via.placeholder.com/150?text=Bootstrap+Responsive",
+      "hasTag": ["Bootstrap", "CSS", "Web Design"]
+    },
+    {
+      "id": 9,
+      "title": "Advanced jQuery Techniques",
+      "authorName": "Robert Miller",
+      "authorImageAvatar": "https://randomuser.me/api/portraits/men/9.jpg",
+      "postDate": "2023-02-25",
+      "readingTime": 11,
+      "courseThumbnail": "https://via.placeholder.com/150?text=jQuery+Advanced",
+      "hasTag": ["jQuery", "JavaScript", "Frontend"]
+    },
+    {
+      "id": 10,
+      "title": "Mastering Tailwind CSS",
+      "authorName": "Laura Lee",
+      "authorImageAvatar": "https://randomuser.me/api/portraits/women/10.jpg",
+      "postDate": "2023-01-30",
+      "readingTime": 13,
+      "courseThumbnail": "https://via.placeholder.com/150?text=Tailwind+Mastery",
+      "hasTag": ["Tailwind CSS", "Design", "Frontend"]
+    }
+  ]
