@@ -4,7 +4,7 @@ import { IoBookmarks } from "react-icons/io5";
 
 
 const Blog = ({blog, handleAddToBookmark, handleMarkAsRead}) => {
-    const{title, authorImageAvatar, courseThumbnail, readingTime, authorName,postDate, hasTag} = blog;
+    const{title, authorImageAvatar, courseThumbnail, readingTime, authorName,postDate, hasTag, id} = blog;
     return (
         <div className='my-10 '>
             <img src={courseThumbnail} alt="Cover Picture Of the title " />
@@ -32,7 +32,7 @@ const Blog = ({blog, handleAddToBookmark, handleMarkAsRead}) => {
             </div>
             <h2 className="text-5xl font-bold my-6 text-left ">{title}</h2>
             <h3 className='text-left'>{hasTag}</h3>
-            <button onClick={()=>handleMarkAsRead(readingTime)} className='text-red-500 font-bold underline'>Mark as Read</button>
+            <button onClick={()=>handleMarkAsRead(id, readingTime)} className='text-red-500 font-bold underline'>Mark as Read</button>
       
             
         </div>
